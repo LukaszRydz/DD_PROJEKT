@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200"/>
-  <img src='https://pbs.edu.pl/upload/media/default/0001/05/956a58073f4269e7ffd76ff79d560b47470eb9d9.png' alt="PBŚ logo" width="200" href="https://pbs.edu.pl/"/>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIwYHRwq2mZjyqvz-OjAxOMkJp3XO0ul36g&s' alt="PBŚ logo" width="200" href="https://pbs.edu.pl/"/>
 </div>
 
 # Diabetes prediction with Decision Trees
