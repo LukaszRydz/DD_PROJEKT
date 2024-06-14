@@ -14,5 +14,18 @@
   <li><span style='color: purple'>(optional)</span> Open the Jupyter Notebook <code>clean_data_presentation.ipynb</code> to view data analysis.</li>
 </ol>
 
+## Used modules
+<ul>
+  <li>torch==2.3.0</li>
+  <li>torchvision==0.18.0</li>
+  <li>pandas==2.2.2</li>
+  <li>scikit-learn==1.5.0</li>
+  <li>joblib==1.4.2</li>
+  <li>matplotlib==3.9.0</li>
+  <li>seaborn==0.13.2</li>
+  <li>kaggle==1.6.14</li>
+  <li></li>
+</ul>
+
 ## Authors
 <p>Łukasz R., Michał P., Bartosz S.</p>

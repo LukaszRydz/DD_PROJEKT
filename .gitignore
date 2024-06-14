@@ -1,0 +1,8 @@
+# ignore dirs
+.data/
+.models/
+.results/
+
+.data/*
+.models/*
+.results/*
