@@ -24,7 +24,6 @@
   <li>matplotlib==3.9.0</li>
   <li>seaborn==0.13.2</li>
   <li>kaggle==1.6.14</li>
-  <li></li>
 </ul>
 
 ## Authors
