@@ -36,5 +36,5 @@
 <ul>
   <li><a href="https://github.com/LukaszRydz">Łukasz R.</a></li>
   <li><a href="https://github.com/puchacz51">Bartosz S.</a></li>
-  <li>Michał P.</li>
+  <li><a href="https://github.com/michalpl10">Michał P.</a></li>
 </ul>
